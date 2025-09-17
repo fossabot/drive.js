@@ -1,4 +1,6 @@
 # Drive.js: DEPRECATED
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fdrive.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fdrive.js?ref=badge_shield)
+
 
 **Deprecation Notice:** Drive is no longer maintained
 
@@ -263,3 +265,7 @@ browsers.
 
 * Works on IOS.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fdrive.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fdrive.js?ref=badge_large)
